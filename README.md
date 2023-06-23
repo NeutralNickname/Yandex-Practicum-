@@ -4,7 +4,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Восстановление золота из руды](Yandex-Practicum-/Recovery of gold from ore/) | Предсказать коэффициент восстановления золота из золотосодержащей руды | *pandas*, *seaborn*, *matplotlib*, *numpy*, *sklearn*, *tqdm*|
+| [Восстановление золота из руды](Recovery of gold from ore/Recovery of gold from ore.ipynb) | Предсказать коэффициент восстановления золота из золотосодержащей руды | *pandas*, *seaborn*, *matplotlib*, *numpy*, *sklearn*, *tqdm*|
 | [Рекомендация тарифов](Recommendation of tariffs) | Построить модель для задачи классификации, которая выберет подходящий тариф | *pandas*, *seaborn*, *matplotlib*, *numpy*, *sklearn*, *tqdm*|
 | [Анализ рынка недвижимости](Real estate market analysis) | Определить факторы и критерии влияющие на цену объектов недвижимости | *pandas*, *matplotlib*, *numpy*|
 | [Защита персональных данных клиентов](Personal data protection) | Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию | *pandas*, *numpy*, *sklearn*, *pandas_profiling*|
